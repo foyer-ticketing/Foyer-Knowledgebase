@@ -12,12 +12,6 @@ export default defineConfig({
 				src: './src/assets/foyer-logo.png',
 				replacesTitle: true,
 			},
-			sidebar: [
-				{
-					label: 'Foyer',
-					items: [{ autogenerate: { directory: 'Foyer' } }],
-				},
-			],
 		}),
 	],
 });

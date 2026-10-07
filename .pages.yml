@@ -1,0 +1,32 @@
+media:
+  input: public/images
+  output: /images
+
+content:
+  - name: pages
+    label: Guide pages
+    type: collection
+    path: src/content/docs
+    filename: "{primary}.md"
+    exclude: [index.mdx]
+    view:
+      fields: [title, sidebar.order]
+      sort: [sidebar.order, title]
+    fields:
+      - name: title
+        label: Page title
+        type: string
+        required: true
+      - name: description
+        label: Short description (for search results)
+        type: text
+      - name: sidebar
+        label: Menu
+        type: object
+        fields:
+          - name: order
+            label: Position in menu (1 = top)
+            type: number
+      - name: body
+        label: Content
+        type: rich-text
