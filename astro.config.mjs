@@ -4,8 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://foyer-ticketing.github.io',
-	base: '/Foyer-Knowledgebase',
+	site: 'https://guide.foyerticketing.xyz',
 	integrations: [
 		starlight({
 			title: 'Foyer Guide',
