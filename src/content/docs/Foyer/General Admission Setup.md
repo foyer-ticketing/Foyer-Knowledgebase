@@ -15,6 +15,6 @@ Before creating a ticket product, Foyer’s ticket selector block needs to be ad
 
 The Ticket Selector app block will be added to your product template and you can drag and drop it wherever you want it to appear on the product page.
 
-![Screenshot of setting up General Admission Tickets”](/src/assets/Screenshot_Setting_up_product_template.png)
+![Screenshot of setting up General Admission Tickets”](../../../assets/Screenshot_Setting_up_product_template.png)
 
 
