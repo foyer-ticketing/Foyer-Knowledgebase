@@ -10,7 +10,7 @@ Before configuring your event type and timeslots in Foyer, you’ll need to crea
 
 - In Shopify select **Products** from the side menu then click **Add product**.
 
-See Shopify’s guide on ++**[Adding and updating products](https://help.shopify.com/en/manual/products/add-update-products)**++.
+See Shopify’s guide on **[Adding and updating products](https://help.shopify.com/en/manual/products/add-update-products)**.
 
 - Set your **Theme template** to **foyer-product**
 
