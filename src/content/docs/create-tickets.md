@@ -1,6 +1,8 @@
 ---
 title: Create tickets
 description: Creating Foyer tickets in Shopify
+sidebar:
+  order: 3
 ---
 ## Part 1: Create your ticket product in Shopify
 
