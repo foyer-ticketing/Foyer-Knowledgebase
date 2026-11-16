@@ -30,3 +30,5 @@ Must tag the orders Foyer Order for them to appear in the timeslot page using Sh
 - Add your **ticket types** as product **variants** of your new product. For example, you might create variants for Adults, Under 18s, and Concession tickets.
 
 See Shopify’s guide on **[Variants](https://help.shopify.com/en/manual/products/variants)**.
+
+![Screenshot of the Variants block](../../assets/variants.png)
