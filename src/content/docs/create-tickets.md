@@ -14,5 +14,4 @@ See Shopify’s guide on **[Adding and updating products](https://help.shopify.c
 
 - Set your **Theme template** to **foyer-product**
 
-![](/images/Add-ticket-selector.png)
-
+![Screenshot of the Foyer product tag](../../assets/foyer-product-tag.png)
