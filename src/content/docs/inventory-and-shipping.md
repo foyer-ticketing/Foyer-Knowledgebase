@@ -5,7 +5,7 @@ description: |+
 
 
 sidebar:
-  order: 4
+  order: 5
 ---
 In the **Inventory block**, toggle to **Inventory not tracked**.
 
