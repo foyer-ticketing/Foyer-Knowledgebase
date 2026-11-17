@@ -5,7 +5,7 @@ sidebar:
 ---
 In this example, you are setting up General Admission so you should select the **Recurring event** type. If your general admission never reaches capacity leave the **maximum capacity** setting blank.
 
-IMAGE
+![Screenshot of the recurring event checkbox](../../assets/recurring_event.png)
 
 Next you will need to add your General Admission **days** and **timeslots**, there are 3 timeslot types. Use:
 
@@ -16,14 +16,14 @@ Next you will need to add your General Admission **days** and **timeslots**, the
 
 - **Closed** for unavailable days eg. if you are closed on Mondays.
 
-IMAGE
+![Screenshot of timeslots](../../assets/recurring_event_timeslots.png)
 
 Before saving, you can add specific dates to exclude for exceptional closures such as private events.
 
 Click **Create Entry Timeslots** to save. Your upcoming timeslots will then appear in a list view. You can select a date to view details for that timeslot, including the total number of attendees, orders, and income.
 
-IMAGE
+![Screenshot of date list view](../../assets/view_dates.png)
 
 Customers purchasing your ticketed product will now be able to choose an available date and entry timeslot:
 
-IMAGE
+![Screenshot of date selector](../../assets/user_date_selector.png)
