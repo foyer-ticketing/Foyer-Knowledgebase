@@ -1,6 +1,9 @@
 ---
-title: Configure your product in Foyer
+title: Setting up in Foyer
+description: Configure your product in Foyer
 ---
+## Part 2: Configure your product in Foyer
+
 Once you have saved your product in Shopify, navigate to the **Foyer Ticketing** app from the **Apps** section in the left-hand menu.
 
 In the **Events requiring entry timeslots** panel, you should see the product you created (for example, **General Admission** **tickets**).
@@ -8,3 +11,4 @@ In the **Events requiring entry timeslots** panel, you should see the product yo
 Click **Add entry timeslots.**
 
 ![Screenshot of Events Management”](../../assets/foyer_config.png)
+
