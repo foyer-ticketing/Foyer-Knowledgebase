@@ -1,6 +1,8 @@
 ---
 title: Setting up in Foyer
 description: Configure your product in Foyer
+sidebar:
+  order: 4
 ---
 ## Part 2: Configure your product in Foyer
 
