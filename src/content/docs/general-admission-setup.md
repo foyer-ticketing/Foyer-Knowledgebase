@@ -2,9 +2,8 @@
 title: General Setup
 description: Setting up general admission events in Foyer
 sidebar:
-  order: 2
+  order: 1
 ---
-
 ## Set up a product template with the Foyer ticket selector
 
 Before creating a ticket product, Foyer’s ticket selector block needs to be added to a Shopify product template. 
@@ -18,5 +17,4 @@ Before creating a ticket product, Foyer’s ticket selector block needs to be ad
 The Ticket Selector app block will be added to your product template and you can drag and drop it wherever you want it to appear on the product page.
 
 ![Screenshot of setting up General Admission Tickets”](../../assets/Screenshot_Setting_up_product_template.png)
-
 
