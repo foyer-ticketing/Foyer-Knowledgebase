@@ -1,7 +1,7 @@
 ---
 title: With/without donation view (optional)
 sidebar:
-  order: 6
+  order: 5
 ---
 You can present your ticket options in a toggle view, allowing customers to choose between prices with or without donations. This makes it easier for them to select their preferred pricing option.
 
