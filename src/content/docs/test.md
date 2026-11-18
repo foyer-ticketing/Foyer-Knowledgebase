@@ -14,7 +14,11 @@ sidebar:
 
 :::  
 
-:::tip[Did you know?]  :::
+:::tip[Did you know?]
+
+Astro helps you build faster websites with [++“Islands Architecture”++](++[https://docs.astro.build/en/concepts/islands/](https://docs.astro.build/en/concepts/islands/)++).
+
+:::
 
 :::caution
 
@@ -29,5 +33,17 @@ Your users may be more productive and find your product easier to use thanks to 
 - Clear navigation
 - User-configurable colour theme
 - ++[i18n support](++/guides/i18n/++)++
+
+:::
+
+:::note
+
+Starlight is a documentation website toolkit built with [Astro]([https://astro.build/](https://astro.build/)). You can get started with this command:
+
+```sh
+
+npm create astro@latest -- --template starlight
+
+```
 
 :::
