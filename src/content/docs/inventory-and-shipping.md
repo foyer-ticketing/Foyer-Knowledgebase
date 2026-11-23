@@ -7,9 +7,12 @@ description: |+
 sidebar:
   order: 4
 ---
-In the **Inventory block**, toggle to **Inventory not tracked**.
+:::steps
 
-In the **Shipping block**, toggle to **Not a physical product**.
+1. In the **Inventory block**, toggle to **Inventory not tracked**.
+
+2. In the **Shipping block**, toggle to **Not a physical product**.
 
 ![Screenshot of setting up Inventory and Shipping block”](../../assets/inventory_shipping.png)
 
+:::
