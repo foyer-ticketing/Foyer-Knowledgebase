@@ -7,4 +7,4 @@ You can also set **Gift Aid eligibility** using the Variant Metafield block. Onc
 
 This displays an automatically generated **Gift Aid declaration text** to customers when they select an eligible ticket variant.
 
-![Screenshot of gift aid metafield ”](<../../assets/ticket metafield_gift aid.png>
+![Screenshot of gift aid metafield ”](<../../assets/ticket metafield_gift aid.png>)
