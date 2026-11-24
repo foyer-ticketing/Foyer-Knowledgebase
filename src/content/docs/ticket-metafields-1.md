@@ -1,5 +1,5 @@
 ---
-title: "Ticket Metafields: Ticket Description"
+title: "Ticket Metafields: Ticket description"
 sidebar:
   order: 5
 ---
