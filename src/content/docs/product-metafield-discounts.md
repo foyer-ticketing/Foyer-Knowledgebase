@@ -18,5 +18,6 @@ These metafields only control the discount information displayed to customers. T
 - When you have completed all your discount settings click to save.
 
 See Shopify's guide on ++**[Amount off discounts](https://help.shopify.com/en/manual/discounts/discount-types/percentage-fixed-amount)**++.
-
 :::
+
+![Screenshot of shopify discount setup](../../assets/product_metafield_create_shopifydiscount.png)
